@@ -11,3 +11,8 @@ title: Welcome to Curse of Strahd
 - **_Roleplay_**. This campaign is primarily driven by the stories of its non-player characters, and their relationships to the party. Be prepared to form meaningful relationships with the characters you encounter, and allow yourself to emotionally invest in those characters' success.
 - **_Rewards_**. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks, with experience points awarded for narrative milestones you achieve as you proceed through the campaign.
 - **_Narrative_**. The campaign begins with a linear structure, but soon evolves into a more expansive sandbox. Be prepared to balance and prioritize multiple quests, including many with clear deadlines.
+
+> [!note]
+> Lorem ipsum
+
+
