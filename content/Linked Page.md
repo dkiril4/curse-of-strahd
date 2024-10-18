@@ -1,10 +1,1 @@
-```
----
-title: "Untitled"
-draft: false
-tags:
-  - 
----
-```
-
-We linkin
+We linked.
