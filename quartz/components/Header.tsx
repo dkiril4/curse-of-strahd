@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return children.length > 0 ? <header>{children}</header> : null
 }
-
+;<div class="hamburger">&#9776;</div>
 Header.css = `
 header {
   display: flex;

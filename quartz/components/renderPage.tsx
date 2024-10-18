@@ -198,6 +198,7 @@ export function renderPage(
 
   const LeftComponent = (
     <div class="left sidebar">
+      <div class="hamburger">&#9776;</div>
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
@@ -213,6 +214,25 @@ export function renderPage(
   )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
+
+  console.log("window", document)
+  if (typeof window !== "undefined") {
+    // Ensure this code runs only in the browser (client-side)
+    window.addEventListener("DOMContentLoaded", function () {
+      const explorer = document.getElementById("explorer")
+      const hamburgerMenu = document.getElementById("hamburger-menu")
+
+      console.log("explorer", explorer)
+      console.log("hamburgerMenu", hamburgerMenu)
+
+      // Toggle explorer on hamburger click
+      hamburgerMenu?.addEventListener("click", function () {
+        explorer?.classList.toggle("open")
+        document.body.classList.toggle("explorer-open") // Optionally add a body class for further styling
+      })
+    })
+  }
+
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
