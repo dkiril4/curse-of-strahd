@@ -15,4 +15,5 @@ title: Welcome to Curse of Strahd
 > [!note]
 > Lorem ipsum
 
+ok?
 
