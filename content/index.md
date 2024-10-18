@@ -12,8 +12,3 @@ title: Welcome to Curse of Strahd
 - **_Rewards_**. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks, with experience points awarded for narrative milestones you achieve as you proceed through the campaign.
 - **_Narrative_**. The campaign begins with a linear structure, but soon evolves into a more expansive sandbox. Be prepared to balance and prioritize multiple quests, including many with clear deadlines.
 
-> [!note]
-> Lorem ipsum
-
-ok?
-
