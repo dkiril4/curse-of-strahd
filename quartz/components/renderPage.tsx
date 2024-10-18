@@ -198,7 +198,6 @@ export function renderPage(
 
   const LeftComponent = (
     <div class="left sidebar">
-      {/* <div class="hamburger">&#9776;</div> */}
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}

@@ -1,6 +1,10 @@
 ---
 title: Curse of Strahd
 ---
+
+> [!note]
+> _If you are accessing this on a phone, use the explorer above to navigate. If you are accessing this on your computer, the explorer is on the left side navigation (not present on phones)._
+
 Welcome to _Curse of Strahd_, an immersive Dungeons & Dragons campaign set in the dark and misty land of Barovia. This gothic horror adventure takes you through haunted forests, eerie villages, and the ominous Castle Ravenloft, where the ancient vampire lord Strahd von Zarovich rules. As adventurers, you will face terrifying creatures, unravel grim mysteries, and make choices that could shape the fate of the land—and your survival. Whether you're new to Barovia or a seasoned traveler, prepare for a story of suspense, danger, and intrigue where your courage and wits will be tested.
 
 #### Setting Expectations
@@ -18,4 +22,3 @@ Welcome to _Curse of Strahd_, an immersive Dungeons & Dragons campaign set in th
 **_Rewards_**. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks, with experience points awarded for narrative milestones you achieve as you proceed through the campaign.
 
 **_Narrative_**. The campaign begins with a linear structure, but soon evolves into a more expansive sandbox. Be prepared to balance and prioritize multiple quests, including many with clear deadlines.
-
