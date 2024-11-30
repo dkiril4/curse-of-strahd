@@ -4,3 +4,4 @@
 
 # Synchronizing this Project to GitHub Pages
 
+`npx quartz sync --no-pull`
